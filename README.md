@@ -14,4 +14,4 @@
 
 this is representation of mobile song player application with original design but with some of the improvements in the interface of the application.
 
-![image_alt](https://github.com/HoneyRajgor/Mobile-App-Redesign/blob/main/Group%206.p
+![image_alt](https://github.com/HoneyRajgor/Mobile-App-Redesign/blob/main/Group%206.png?raw=true)
